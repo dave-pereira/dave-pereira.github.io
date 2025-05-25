@@ -1,54 +1,146 @@
 ---
-title: 'Emoji Support'
-date: 2025-03-15
-description: 'Why CTAs Are Your Marketing Wingman!'
-thumbnail: https://picsum.photos/id/1050/400/250](https://images.pexels.com/photos/5605061/pexels-photo-5605061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+title: 'Markdown Syntax Guide'
+description: 'Sample article showcasing basic Markdown syntax and formatting for HTML elements.'
+tags: ['markdown', 'css', 'html']
+date: 2025-03-14
+thumbnail: https://picsum.photos/id/1002/400/250
 ---
 
-Don't Leave Your Customers Hanging: 
+This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
 
-h1>Don't Leave Your Customers Hanging: Why CTAs Are Your Marketing Wingman!</h1>
+## Headings
 
-    <p>Ever had that awkward moment? You're chatting someone up, things are going great, you've totally charmed them... and then you just stare at them? No "Want to grab coffee?" No "Here's my number?" Just... silence. That, my friends, is what your marketing is doing without a killer Call to Action (CTA)!</p>
+The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
-    <p>Think of your marketing message as that charming conversation. You've introduced yourself, explained how amazing you are, and maybe even shared a few witty jokes. But if you don't tell your audience what to do next, they'll just shrug, scratch their heads, and wander off to find someone who actually *asks* them out. Sounds familiar, right?</p>
+# H1
 
-    <p>That's where the mighty CTA swoops in, capes flapping. It's not just a button or a link; it's your marketing message's grand finale, the helpful nudge, the "Psst, over here!" that guides your lovely potential customer through the entire buying process. Without it, your carefully crafted ads and dazzling content are just... pretty words floating in the digital ether. And who wants that?</p>
+## H2
 
-    <h2>So, how do you make your CTA less like a mumbled suggestion and more like a confident invitation?</h2>
+### H3
 
-    <div class="cta-tips">
-        <ul>
-            <li><strong>Be a Straight Talker:</strong> Don't beat around the bush. "Buy Now," "Sign Up," "Learn More" – these are the blunt, beautiful truths your audience needs. No riddles, please! The simpler, the better.</li>
-            <li><strong>Hurry, While Supplies Last (or don't, but act now anyway!):</strong> Throw in a little urgency. "Limited-Time Offer," "Shop Before Midnight," "Only 3 Left!" — it taps into that very human fear of missing out. We all want the last slice of cake, don't we?</li>
-            <li><strong>Play on the Heartstrings:</strong> Connect with their emotions. "Transform Your Life," "Discover Your Potential," "Join the Community" – make them *feel* something about taking that next step.</li>
-        </ul>
-    </div>
+#### H4
 
-    <p class="conclusion">Ultimately, a well-placed, clear CTA is like that perfect closing line on a date. It completes the whole interaction, moves things forward, and most importantly, turns those casual glances into actual conversions. So, stop leaving your customers hanging! Give them a clear direction, and watch your marketing magic truly begin. Go forth and CTA!</p>
+##### H5
+
+###### H6
+
+## Paragraph
+
+Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+
+Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+
+## Blockquotes
+
+The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+
+#### Blockquote without attribution
+
+> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+> **Note** that you can use _Markdown syntax_ within a blockquote.
+
+#### Blockquote with attribution
+
+> Don't communicate by sharing memory, share memory by communicating.<br>
+> — <cite>Rob Pike[^1]</cite>
+
+[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+
+## Tables
+
+Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+
+| Name  | Age |
+| ----- | --- |
+| Bob   | 27  |
+| Alice | 23  |
+
+#### Inline Markdown within tables
+
+| Italics   | Bold     | Code   |
+| --------- | -------- | ------ |
+| _italics_ | **bold** | `code` |
+
+## Code Blocks
+
+#### Code block with backticks
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Example HTML5 Document</title>
+  </head>
+  <body>
+    <p>Test</p>
+  </body>
+</html>
+```
+
+#### Code block indented with four spaces
+
+    <!doctype html>
+    <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <title>Example HTML5 Document</title>
+    </head>
+    <body>
+      <p>Test</p>
+    </body>
+    </html>
+
+#### Code block with Hugo's internal highlight shortcode
 
 {{< highlight html >}}
-.emoji {
-font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Example HTML5 Document</title>
+</head>
+<body>
+  <p>Test</p>
+</body>
+</html>
 {{< /highlight >}}
 
-{{< css.inline >}}
+## List Types
 
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style>
+#### Ordered List
 
-{{< /css.inline >}}
+1. First item
+2. Second item
+3. Third item
+
+#### Unordered List
+
+- List item
+- Another item
+- And another item
+
+#### Nested list
+
+- Fruit
+  - Apple
+  - Orange
+  - Banana
+- Dairy
+  - Milk
+  - Cheese
+
+## Other Elements — abbr, sub, sup, kbd, mark
+
+<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
+
+H<sub>2</sub>O
+
+X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+
+Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
+
+Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
