@@ -138,7 +138,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Dave Pereira"
       introSubtitle = "Alittle about me"
-      introPhoto = "/picture.jpg"
+      introPhoto = "/picture2.jpg"
       logo = "/blist-logo.png"
 
     [[languages.en.menu.main]]
