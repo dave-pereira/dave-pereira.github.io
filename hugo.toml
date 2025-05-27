@@ -150,3 +150,8 @@ DefaultContentLanguageInSubdir = true
         name = "About"
         url = "page/about/"
         weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Portfolio"
+        url = "page/portfolio/"
+        weight = 2
