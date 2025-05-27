@@ -2,6 +2,7 @@
 title: 'Level Up Your Amazon Listings!'
 description: 'Level Up Your Amazon Listings! My Personal Journey to High-Converting Product Pages'
 tags: ['markdown', 'css', 'html']
+date: 2025-02-19
 thumbnail: https://images.pexels.com/photos/4560039/pexels-photo-4560039.jpeg
 ---
 
