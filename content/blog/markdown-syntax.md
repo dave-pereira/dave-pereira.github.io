@@ -2,7 +2,7 @@
 title: 'My Personal Takeaways from Google I/O 2025!'
 description: 'Wow, What a Ride! My Personal Takeaways from Google I/O 2025!'
 tags: ['markdown', 'css', 'html']
-date: 2025-03-14
+date: 2025
 thumbnail: https://images.pexels.com/photos/40185/mac-freelancer-macintosh-macbook-40185.jpeg
 ---
 
