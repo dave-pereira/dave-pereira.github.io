@@ -1,7 +1,7 @@
 ---
-title: About Me
+title: Portfolio
 date: 2025-03-15
-description: 'About Me'
+description: 'portfolio'
 type: about
 ---
 
