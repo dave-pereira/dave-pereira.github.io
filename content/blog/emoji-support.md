@@ -2,7 +2,7 @@
 title: 'The Hilarious Truth About CTAs Dont Leave Em Hanging!'
 description: 'Dont Leave Your Customers Hanging Why CTAs Are Your Marketing Wingman!'
 tags: ['markdown', 'css', 'html']
-date: 2025-04-14
+date: 2025-01-25
 thumbnail: https://images.pexels.com/photos/5605061/pexels-photo-5605061.jpeg
 ---
 
