@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Dave Pereira</title><link>https://davepereira.co.uk/portfolio/</link><description>Recent content in Portfolios on Dave Pereira</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://davepereira.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://davepereira.co.uk/portfolio/portfolio/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://davepereira.co.uk/portfolio/portfolio/</guid><description>&lt;h3 id="portfolio">Portfolio&lt;/h3></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Dave Pereira</title><link>https://davepereira.co.uk/portfolio/</link><description>Recent content in Portfolios on Dave Pereira</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://davepereira.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://davepereira.co.uk/portfolio/portfolio/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://davepereira.co.uk/portfolio/portfolio/</guid><description>&lt;h3 id="portfolio">Portfolio&lt;/h3>
+&lt;div class="carousel" unique-script-id="w-w-dm-id">
+ &lt;div class="responsive-container-block bigContainer">
+ &lt;div class="responsive-container-block Container">
+ &lt;div class="swiper mySwiper">
+ &lt;div class="swiper-wrapper">
+ &lt;div class="swiper-slide">
+ &lt;div class="card">
+ &lt;img class="cardImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/mp26.svg">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="swiper-slide">
+ &lt;div class="card">
+ &lt;img class="cardImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/mp27.svg">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="swiper-slide">
+ &lt;div class="card">
+ &lt;img class="cardImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/mp26.svg">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="swiper-slide">
+ &lt;div class="card">
+ &lt;img class="cardImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/mp27.svg">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="swiper-slide">
+ &lt;div class="card">
+ &lt;img class="cardImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/mp26.svg">
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="swiper-pagination container-block">
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div></description></item></channel></rss>
