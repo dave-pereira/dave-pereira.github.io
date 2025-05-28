@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Dave Pereira</title><link>https://davepereira.co.uk/portfolio/</link><description>Recent content in Portfolios on Dave Pereira</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://davepereira.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://davepereira.co.uk/portfolio/portfolio/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://davepereira.co.uk/portfolio/portfolio/</guid><description>&lt;div class="gallery">
- &lt;a target="_blank" href="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P1_1.jpeg">
- &lt;img src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P1_1.jpeg" alt="" width="300" height="500">
- &lt;/a>
-&lt;/div>
-&lt;div class="gallery">
- &lt;a target="_blank" href="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P2_2.jpeg">
- &lt;img src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P2_2.jpeg" alt="" width="300" height="500">
- &lt;/a>
-&lt;/div>
-&lt;div class="gallery">
- &lt;a target="_blank" href="img_lights.jpg">
- &lt;img src="img_lights.jpg" alt="" width="300" height="500">
- &lt;/a>
-&lt;/div>
-&lt;div class="gallery">
- &lt;a target="_blank" href="img_mountains.jpg">
- &lt;img src="img_mountains.jpg" alt="" width="300" height="500">
- &lt;/a>
-&lt;/div>
-&lt;/body>
-&lt;/html></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Dave Pereira</title><link>https://davepereira.co.uk/portfolio/</link><description>Recent content in Portfolios on Dave Pereira</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://davepereira.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://davepereira.co.uk/portfolio/portfolio/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://davepereira.co.uk/portfolio/portfolio/</guid><description>&lt;body>
+	&lt;div class="bee-page-container">
+		&lt;div class="bee-row bee-row-1">
+			&lt;div class="bee-row-content">
+				&lt;div class="bee-col bee-col-1 bee-col-w6">
+					&lt;div class="bee-block bee-block-1 bee-image">&lt;img class="bee-center bee-autowidth" src="https://d15k2d11r6t6rl.cloudfront.net/pub/ifps/txgvgisx/dex/2bg/ng9/P1_1.jpeg" style="max-width:250px;" alt="">&lt;/div>
+				&lt;/div>
+				&lt;div class="bee-col bee-col-2 bee-col-w6">
+					&lt;div class="bee-block bee-block-1 bee-image">&lt;img class="bee-center bee-autowidth" src="https://d15k2d11r6t6rl.cloudfront.net/pub/ifps/txgvgisx/1jh/6a2/wzm/P2_2.jpeg" style="max-width:250px;" alt="">&lt;/div>
+				&lt;/div>
+			&lt;/div>
+		&lt;/div>
+	&lt;/div>
+&lt;/body></description></item></channel></rss>
