@@ -6,20 +6,20 @@
  &lt;div class="swiper-wrapper">
  &lt;div class="swiper-slide">
  &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="P1_1.jpeg">
- &lt;img class="mainImg" src="P2_2.jpeg">
+ &lt;img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P1_1.jpeg">
+ &lt;img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P2_2.jpeg">
  &lt;/div>
  &lt;/div>
  &lt;div class="swiper-slide">
  &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="P3_3.jpeg">
- &lt;img class="mainImg" src="P4_4.jpeg">
+ &lt;img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P3_3.jpeg">
+ &lt;img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P4_4.jpeg">
  &lt;/div>
  &lt;/div>
  &lt;div class="swiper-slide">
  &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="P5_5.jpg">
- &lt;img class="mainImg" src="P6_6.jpg">
+ &lt;img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P5_5.jpg">
+ &lt;img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P6_6.jpg">
  &lt;/div>
  &lt;/div>
  &lt;/div>
