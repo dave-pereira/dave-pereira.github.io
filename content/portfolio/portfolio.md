@@ -5,30 +5,57 @@ description: 'portfolio'
 type: about
 ---
 
-### Portfolio
+<!-- ============================================ -->
+<!--                  Gallery                     -->
+<!-- ============================================ -->
 
-<div class="gallery" unique-script-id="w-w-dm-id">
-  <div class="responsive-container-block bigContainer">
-    <div class="responsive-container-block Container">
-             <div class="swiper-container mySwiper">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div class="blockImg">
-                <img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P1_1.jpeg">
-                <img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P2_2.jpeg">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="blockImg">
-                <img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P3_3.jpeg">
-                <img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P4_4.jpeg">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="blockImg">
-                <img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P5_5.jpg">
-                <img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P6_6.jpg">
-              </div>
-            </div>
-  </div>
-</div>
+<section id="gallery-1716">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper"></span>
+            <h2 class="cs-title">View some of my designs</h2>
+            <!--If you remove the cs-text, the rectangle shape will disappear.  If you need to remove it, transfer the :before and .cs-text:last-of-type styles to the cs-title on mobile and desktop-->
+            <p class="cs-text">
+                -
+            </p>
+            <a href="" class="cs-button-solid">View All</a>
+        </div>
+        <div class="cs-gallery">
+            <picture class="cs-picture">
+                <!--Mobile Image-->
+                <source media="(max-width: 600px)"
+                        srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-1.png">
+                <!--Tablet and above Image-->
+                <source media="(min-width: 601px)"
+                        srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-1.png">
+                <img loading="lazy" decoding="async"
+                        src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-1.png" alt="picture"
+                        width="480" height="549">
+            </picture>
+            <picture class="cs-picture">
+                <!--Mobile Image-->
+                <source media="(max-width: 600px)"
+                        srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-2.png">
+                <!--Tablet and above Image-->
+                <source media="(min-width: 601px)"
+                        srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-2.png">
+                <img loading="lazy" decoding="async"
+                        src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-2.png" alt="picture"
+                        width="480" height="549">
+            </picture>
+            <picture class="cs-picture">
+                <!--Mobile Image-->
+                <source media="(max-width: 600px)"
+                        srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-3.png">
+                <!--Tablet and above Image-->
+                <source media="(min-width: 601px)"
+                        srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-3.png">
+                <img loading="lazy" decoding="async"
+                        src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-3.png" alt="picture"
+                        width="480" height="549">
+            </picture>
+        </div>
+    </div>
+</section>
+                                
+                                
