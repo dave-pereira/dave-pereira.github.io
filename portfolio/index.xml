@@ -1,26 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Dave Pereira</title><link>https://davepereira.co.uk/portfolio/</link><description>Recent content in Portfolios on Dave Pereira</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://davepereira.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://davepereira.co.uk/portfolio/portfolio/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://davepereira.co.uk/portfolio/portfolio/</guid><description>&lt;h3 id="portfolio">Portfolio&lt;/h3>
-&lt;div class="gallery" unique-script-id="w-w-dm-id">
- &lt;div class="responsive-container-block bigContainer">
- &lt;div class="responsive-container-block Container">
- &lt;div class="swiper-container mySwiper">
- &lt;div class="swiper-wrapper">
- &lt;div class="swiper-slide">
- &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P1_1.jpeg">
- &lt;img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P2_2.jpeg">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Dave Pereira</title><link>https://davepereira.co.uk/portfolio/</link><description>Recent content in Portfolios on Dave Pereira</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://davepereira.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://davepereira.co.uk/portfolio/portfolio/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://davepereira.co.uk/portfolio/portfolio/</guid><description>&lt;!-- ============================================ -->
+&lt;!-- Gallery -->
+&lt;!-- ============================================ -->
+&lt;section id="gallery-1716">
+ &lt;div class="cs-container">
+ &lt;div class="cs-content">
+ &lt;span class="cs-topper">&lt;/span>
+ &lt;h2 class="cs-title">View some of my designs&lt;/h2>
+ &lt;!--If you remove the cs-text, the rectangle shape will disappear. If you need to remove it, transfer the :before and .cs-text:last-of-type styles to the cs-title on mobile and desktop-->
+ &lt;p class="cs-text">
+ -
+ &lt;/p>
+ &lt;a href="" class="cs-button-solid">View All&lt;/a>
+ &lt;/div>
+ &lt;div class="cs-gallery">
+ &lt;picture class="cs-picture">
+ &lt;!--Mobile Image-->
+ &lt;source media="(max-width: 600px)"
+ srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-1.png">
+ &lt;!--Tablet and above Image-->
+ &lt;source media="(min-width: 601px)"
+ srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-1.png">
+ &lt;img loading="lazy" decoding="async"
+ src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-1.png" alt="picture"
+ width="480" height="549">
+ &lt;/picture>
+ &lt;picture class="cs-picture">
+ &lt;!--Mobile Image-->
+ &lt;source media="(max-width: 600px)"
+ srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-2.png">
+ &lt;!--Tablet and above Image-->
+ &lt;source media="(min-width: 601px)"
+ srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-2.png">
+ &lt;img loading="lazy" decoding="async"
+ src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-2.png" alt="picture"
+ width="480" height="549">
+ &lt;/picture>
+ &lt;picture class="cs-picture">
+ &lt;!--Mobile Image-->
+ &lt;source media="(max-width: 600px)"
+ srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-3.png">
+ &lt;!--Tablet and above Image-->
+ &lt;source media="(min-width: 601px)"
+ srcset="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-3.png">
+ &lt;img loading="lazy" decoding="async"
+ src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/MISC/enterprise-gallery-3.png" alt="picture"
+ width="480" height="549">
+ &lt;/picture>
  &lt;/div>
  &lt;/div>
- &lt;div class="swiper-slide">
- &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P3_3.jpeg">
- &lt;img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P4_4.jpeg">
- &lt;/div>
- &lt;/div>
- &lt;div class="swiper-slide">
- &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P5_5.jpg">
- &lt;img class="mainImg" src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/static/P6_6.jpg">
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/div></description></item></channel></rss>
+&lt;/section></description></item></channel></rss>
