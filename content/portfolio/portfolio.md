@@ -5,32 +5,20 @@ description: 'portfolio'
 type: about
 ---
 
-<div class="gallery">
-  <a target="_blank" href="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P1_1.jpeg">
-    <img src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P1_1.jpeg" alt="" width="300" height="500">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P2_2.jpeg">
-    <img src="https://github.com/dave-pereira/dave-pereira.github.io/blob/main/content/portfolio/P2_2.jpeg" alt="" width="300" height="500">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="" width="300" height="500">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="" width="300" height="500">
-  </a>
-</div>
-
+<body>
+	<div class="bee-page-container">
+		<div class="bee-row bee-row-1">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w6">
+					<div class="bee-block bee-block-1 bee-image"><img class="bee-center bee-autowidth" src="https://d15k2d11r6t6rl.cloudfront.net/pub/ifps/txgvgisx/dex/2bg/ng9/P1_1.jpeg" style="max-width:250px;" alt=""></div>
+				</div>
+				<div class="bee-col bee-col-2 bee-col-w6">
+					<div class="bee-block bee-block-1 bee-image"><img class="bee-center bee-autowidth" src="https://d15k2d11r6t6rl.cloudfront.net/pub/ifps/txgvgisx/1jh/6a2/wzm/P2_2.jpeg" style="max-width:250px;" alt=""></div>
+				</div>
+			</div>
+		</div>
+	</div>
 </body>
-</html>
 
 
 
