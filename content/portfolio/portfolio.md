@@ -10,22 +10,7 @@ type: about
 <div class="gallery" unique-script-id="w-w-dm-id">
   <div class="responsive-container-block bigContainer">
     <div class="responsive-container-block Container">
-      <p class="text-blk headingText" id="w-c-s-fc_p-1-dm-id">
-        Famous Gallery
-      </p>
-      <p class="text-blk">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus elementum magna ut duis pulvinar tincidunt vivamus adipiscing quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      </p>
-      <div class="responsive-container-block cardContainer">
-        <div class="btn">
-          <div class="swiper-button-nexts">
-            <img src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Path.svg">
-          </div>
-          <div class="swiper-button-prevs">
-            <img src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Path.svg">
-          </div>
-        </div>
-        <div class="swiper-container mySwiper">
+             <div class="swiper-container mySwiper">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="blockImg">
