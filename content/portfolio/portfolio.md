@@ -15,38 +15,20 @@ type: about
             <div class="swiper-slide">
               <div class="blockImg">
                 <img class="mainImg image-block" src="P1_1.jpeg">
-                <img class="mainImg" src="P1_1.jpeg">
+                <img class="mainImg" src="P2_2.jpeg">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="blockImg">
-                <img class="mainImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft19.svg">
-                <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft18.svg">
+                <img class="mainImg image-block" src="P3_3.jpeg">
+                <img class="mainImg" src="P4_4.jpeg">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="blockImg">
-                <img class="mainImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft9.svg">
-                <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft17.svg">
+                <img class="mainImg image-block" src="P5_5.jpg">
+                <img class="mainImg" src="P6_6.jpg">
               </div>
             </div>
-            <div class="swiper-slide">
-              <div class="blockImg">
-                <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft18.svg">
-                <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft20.svg">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="blockImg">
-                <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft17.svg">
-                <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft9.svg">
-              </div>
-            </div>
-          </div>
-          <div class="swiper-pagination">
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
