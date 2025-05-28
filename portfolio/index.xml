@@ -7,37 +7,19 @@
  &lt;div class="swiper-slide">
  &lt;div class="blockImg">
  &lt;img class="mainImg image-block" src="P1_1.jpeg">
- &lt;img class="mainImg" src="P1_1.jpeg">
+ &lt;img class="mainImg" src="P2_2.jpeg">
  &lt;/div>
  &lt;/div>
  &lt;div class="swiper-slide">
  &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft19.svg">
- &lt;img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft18.svg">
+ &lt;img class="mainImg image-block" src="P3_3.jpeg">
+ &lt;img class="mainImg" src="P4_4.jpeg">
  &lt;/div>
  &lt;/div>
  &lt;div class="swiper-slide">
  &lt;div class="blockImg">
- &lt;img class="mainImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft9.svg">
- &lt;img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft17.svg">
- &lt;/div>
- &lt;/div>
- &lt;div class="swiper-slide">
- &lt;div class="blockImg">
- &lt;img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft18.svg">
- &lt;img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft20.svg">
- &lt;/div>
- &lt;/div>
- &lt;div class="swiper-slide">
- &lt;div class="blockImg">
- &lt;img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft17.svg">
- &lt;img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft9.svg">
- &lt;/div>
- &lt;/div>
- &lt;/div>
- &lt;div class="swiper-pagination">
- &lt;/div>
- &lt;/div>
+ &lt;img class="mainImg image-block" src="P5_5.jpg">
+ &lt;img class="mainImg" src="P6_6.jpg">
  &lt;/div>
  &lt;/div>
  &lt;/div>
