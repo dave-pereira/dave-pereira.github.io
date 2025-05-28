@@ -14,8 +14,8 @@ type: about
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="blockImg">
-                <img class="mainImg image-block" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft16.svg">
-                <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/ft17.svg">
+                <img class="mainImg image-block" src="P1_1.jpeg">
+                <img class="mainImg" src="P1_1.jpeg">
               </div>
             </div>
             <div class="swiper-slide">
